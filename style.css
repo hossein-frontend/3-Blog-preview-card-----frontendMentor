@@ -78,3 +78,13 @@ body {
 .card__author > img {
   width: 30px;
 }
+.card__date {
+  color: var(--grey);
+}
+p {
+  color: var(--grey);
+}
+.attribution {
+  position: absolute;
+  font-family: "Courier New", Courier, monospace;
+}
